@@ -1,26 +1,23 @@
-# Machine Learning Model Training and Evaluation-
-
-This repository demonstrates techniques for training and evaluating machine learning models using Word2Vec feature extraction, logistic regression, and random forest classifiers. Key functionalities include:
-
-Document Vectorization: 
-Implements Word2Vec to generate document-level feature vectors.
-Logistic Regression: 
-Trains and evaluates a logistic regression model with accuracy and classification report metrics.
-Random Forest Classifier: 
-Trains and evaluates a random forest classifier for comparison.
-Feature Matrix: Applies feature extraction on tokenized texts and constructs a feature matrix for testing
-
-#Generating and Exporting Predictions
-
-This section of the pipeline focuses on creating predictions and saving them for further use or submission:
-
-Prediction DataFrame:
-Generates a DataFrame  containing the model's predictions.
 
 
-Submission File:
-Combines predictions with associated IDs from the test dataset to create a submission-ready DataFrame (submission).
-Saves the resulting file as submission.csv for evaluation or upload.
+#PrajwalKolhe
+My work in this project is cleaning and preprocessing text data . 
+The cleaning process ensures the text is standardized and ready for further analysis by removing unnecessary elements and normalizing the content.
 
-submission csv file creating and dowloading:
-Includes functionality to interactively visualize the submission DataFrame using sheets.submission sheet download the predictions
+Cleaning Process
+The cleaning process involves the following steps:
+
+Removing unnecessary elements such as:
+URLs (ex. http://abc.com, www.abc.com).
+Hashtags (ex #xyz) and mentions (ex. @abc123).
+Non-alphabetical characters (ex. numbers, punctuation, special characters).
+Converting text to lowercase to maintain uniformity.
+The cleaned text is stored in a new column named cleaned_text for analysis.
+
+Features
+Remove URLs- Eliminates all links from the text to simplify content.
+Remove Hashtags and Mentions- Strips out social media-specific elements such as #hashtags and @mentions.
+Remove Non-Alphabetic Characters- Removes numbers, punctuation, and special symbols while keeping only alphabetic characters and spaces.
+Convert to Lowercase- Ensures all text is in lowercase for consistency.
+
+
