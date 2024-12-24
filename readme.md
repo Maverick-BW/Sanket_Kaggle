@@ -1,5 +1,6 @@
 
 
+
 #PrajwalKolhe
 My work in this project is cleaning and preprocessing text data . 
 The cleaning process ensures the text is standardized and ready for further analysis by removing unnecessary elements and normalizing the content.
@@ -19,5 +20,4 @@ Remove URLs- Eliminates all links from the text to simplify content.
 Remove Hashtags and Mentions- Strips out social media-specific elements such as #hashtags and @mentions.
 Remove Non-Alphabetic Characters- Removes numbers, punctuation, and special symbols while keeping only alphabetic characters and spaces.
 Convert to Lowercase- Ensures all text is in lowercase for consistency.
-
 
