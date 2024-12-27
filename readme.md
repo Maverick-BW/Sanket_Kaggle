@@ -1,4 +1,4 @@
-### Data Cleaning and Data Processing by Prajwal Kolhe and Shreyash Vibhute.
+## Data Cleaning and Data Processing by Prajwal Kolhe and Shreyash Vibhute.
  
 The cleaning process ensures the text is standardized and ready for further analysis by removing unnecessary elements and normalizing the content.
 
