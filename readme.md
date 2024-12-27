@@ -43,7 +43,7 @@
 | 13       | Apply lemmatization to text using the `lemmatize_text` function.                       | Sample rows showing text before and after lemmatization.                                  |
 
 ## Training Models :
-Sanket Patil and Rajesh Patil.
+(Sanket Patil and Rajesh Patil).
 
 This project demonstrates the application of machine learning models to a classification problem using logistic regression and random forest classifiers. Below are the key steps and results:
 ### 1. Document Vectorization: 
