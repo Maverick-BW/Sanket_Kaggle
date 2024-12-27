@@ -59,7 +59,7 @@ The dataset is split into training and testing sets using `train_test_split()` w
 
 
 
-# Machine Learning Evaluation by Abhiji Pisal and Rohit Pandey
+## Machine Learning Evaluation by Abhiji Pisal and Rohit Pandey
 
 This repository demonstrates techniques for training and evaluating machine learning models using Word2Vec feature extraction, logistic regression, and random forest classifiers. Key functionalities include:
 
