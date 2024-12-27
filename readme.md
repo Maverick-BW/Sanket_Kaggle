@@ -1,4 +1,4 @@
-### Data Cleaning and Data Processing by Prajwal Kolhe and Shreyash Vibhute.
+## Data Cleaning and Data Processing by Prajwal Kolhe and Shreyash Vibhute.
  
 The cleaning process ensures the text is standardized and ready for further analysis by removing unnecessary elements and normalizing the content.
 
@@ -59,7 +59,7 @@ The dataset is split into training and testing sets using `train_test_split()` w
 
 
 
-# Machine Learning Evaluation by Abhiji Pisal and Rohit Pandey
+## Machine Learning Evaluation by Abhiji Pisal and Rohit Pandey
 
 This repository demonstrates techniques for training and evaluating machine learning models using Word2Vec feature extraction, logistic regression, and random forest classifiers. Key functionalities include:
 
