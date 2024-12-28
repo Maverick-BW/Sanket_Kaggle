@@ -1,4 +1,4 @@
-# Train data (cleaning & Processing):
+## Train data (cleaning & Processing):
 
 (Prajwal Kolhe & Shreyash Vibhute)
 
@@ -23,7 +23,7 @@
 | 16       | Train a Word2Vec model on the tokenized text.                                                                | Model trained, and vocabulary size displayed.                                             |
 | 17       | Extract Word2Vec features and prepare the dataset (`X` and `y`) for further modeling.                        | `X` (features) and `y` (labels) prepared, dimensions confirmed.                          |
 
-# Test Data (Cleaning and Processing):
+## Test Data (Cleaning and Processing):
 (Abhijeet Pisal,Rohit Pandey )
 
 | **Step** | **Process Description**                                                                 | **Output/Visualization**                                                                   |
@@ -78,7 +78,7 @@ The dataset is split into training and testing sets using `train_test_split()` w
 - The trained logistic regression model is used to predict the target variable on a new dataset (`X_test_x`).
 - The predictions are stored in a `DataFrame` and saved to a CSV file.
 
-# Final Prediction by using Random Forest Classifier and downloading csv file:
+## Final Prediction by using Random Forest Classifier and downloading csv file:
 
 | **Step** | **Process Description**                                                | **Output/Visualization**                                                           |
 |----------|------------------------------------------------------------------------|-----------------------------------------------------------------------------------|
